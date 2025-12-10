@@ -1,8 +1,0 @@
-{
-    "username": "ismetakalin1234",
-    "customer_code": "11197376A",
-    "email": "ismetakalin1234@gmail.com",
-    "phone": "",
-    "company": "",
-    "license": "dXNlcm5hbWV8Y3VzdG9tZXJfY29kZXxlbWFpbHxwaG9uZXxjb21wYW55,tRKaF5NenvbtoWn4MG3QYrlWJKE6HnpcxIf2fsAv+bS2YKjWr55rBPu1XhwTRp/18NohlAidU+0wATrXs5edPv3D8wi40K1/gjDvRh9yTcpyEL5tq5KXJpdV7BNJa/SQSNgKgwTkcC8pV9Tb/r6rLIpuMc3qwH2Pej8lwSQYfAg="
-}
