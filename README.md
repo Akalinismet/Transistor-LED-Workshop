@@ -21,7 +21,7 @@ Bu atölye çalışması, temel elektronik bileşenlerin çalışma mantığınd
 
 ## 📂 Depo İçeriği
 
-Eğitim boyunca kullanılan ve üretilen tüm materyallere aşağıdaki klasörlerden ulaşabilirsiniz:
+Eğitim boyunca kullanılan ve üretilen tüm materyallere bu repodan ulaşabilirsiniz:
 
 * **`Presentation/`**: Etkinlikte kullanılan sunum dosyası (*Transistörle Led Kontrolü Etkinliği Sunum.pdf*).
 * **`Schematic/`**: Devrenin şematik çizimleri.
